@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Kali-X
+Comment=A Theme Based on Zukitwo by lassekongo83. Built & Modified for Kali Linux (New Colors, Buttons, Fixes).
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Kali-X
+MetacityTheme=Kali-X
+ButtonLayout=:minimize,maximize,close
